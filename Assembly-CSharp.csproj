@@ -61,9 +61,46 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.54f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\SimplePlayerAimController.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\RandomizedDollySpeed.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\CursorLockManager.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\SamplesDynamicUI.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\PerspectiveToOrthoCustomBlender.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\SimpleCarController.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\SamplesHelpUI.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\LockPosZ.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\Teleporter.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\ReparentPlayerToSurface.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\LookAtTarget.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\MagnetGroupController.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\ShotQualityBasedOnSplineCartPosition.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\FadeOutShaderController.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\ThirdPersonFollowCameraSideSwapper.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\AimCameraRig.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\SimpleBullet.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\SimplePlayerShoot.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\RunnerController.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\AimTargetManager.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\SpawnInRadius.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\ReduceGroupWeightWhenBelowFloor.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\SimplePlayerController2D.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\MixCamerasBasedOnSpeed.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\ExpandingAimReticle.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\Magnet.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\RigidbodyInterpolationSetter.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\SimplePlayerOnSurface.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\TurnAroundPlayer.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\SimplePlayerAnimator.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\SimplePlayerController.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\WrapAround.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\EarlyLookAtCustomBlender.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\DampedTracker.cs" />
+    <Compile Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\Scripts\FlyAround.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\UI\SampleHelpUI.uxml" />
+    <None Include="Assets\Samples\Cinemachine\3.1.5\Shared Assets\UI\SamplesUIStyle.uss" />
     <None Include="Assets\Starter Assets\Sample\Environment\Shaders\Built-in_RP\Triplanar.shader" />
     <None Include="Assets\Starter Assets\Sample\Environment\Shaders\Built-in_RP\ArmatureShader.shader" />
   </ItemGroup>
